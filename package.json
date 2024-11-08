@@ -1,5 +1,5 @@
 {
-  "name": "my-component-lib",
+  "name": "@pmt0014/my-component-lib",
   "private": "false",
   "version": "0.0.0",
   "type": "module",
