@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "description": "A sample component library",
-  "author": "PMT0014",
+  "author": "pmt0014",
   "directories": {
     "lib": "lib"
   },
