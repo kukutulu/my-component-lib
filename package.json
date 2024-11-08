@@ -1,6 +1,6 @@
 {
   "name": "my-component-lib",
-  "private": true,
+  "private": "false",
   "version": "0.0.0",
   "type": "module",
   "description": "A sample component library",
